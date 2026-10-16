@@ -1,0 +1,25 @@
+logical_id,filename,country,leader,term,speechtype,speechnum,human_score,score_band,text_chars
+Poland|Donald Tusk|1|Campaign|1,Poland_Tusk_Campaign_1.txt,Poland,Donald Tusk,1,Campaign,1,0.0,0: none,22770
+South Africa|Nelson Mandela|1|International|3,South Africa_Mandela_International_1.txt,South Africa,Nelson Mandela,1,International,3,0.0,0: none,9035
+Germany|Gerhard Schroeder|1|Ribbon cutting|2,GER_Schroeder_Ribbon_1.txt,Germany,Gerhard Schroeder,1,Ribbon cutting,2,0.0,0: none,18657
+Moldova|Pavel Filip|1|International|3,Moldova_FIlip_International_1.txt,Moldova,Pavel Filip,1,International,3,0.0,0: none,18262
+Russia|Vladimir Putin|3|Ribbon cutting|2,Russia_Putin_Ribbon_3.txt,Russia,Vladimir Putin,3,Ribbon cutting,2,0.0,0: none,4694
+Mexico|Enrique Pena Nieto|1|Campaign|1,Mexico_Pena Nieto_Campaign_1.txt,Mexico,Enrique Pena Nieto,1,Campaign,1,0.0,0: none,14599
+Uruguay|Jorge Batlle|1|International|3,Uruguay_Batlle_International_1.txt,Uruguay,Jorge Batlle,1,International,3,0.15,1: low,7607
+Georgia|Giorgi Kvirikashvili|1|International|3,Georgia_Kvirikashvili_International_1.txt,Georgia,Giorgi Kvirikashvili,1,International,3,0.15,1: low,12938
+South Africa|Nelson Mandela|1|Famous|2,South Africa_Mandela_Famous_1.txt,South Africa,Nelson Mandela,1,Famous,2,0.2,1: low,5331
+Croatia|Franjo Tudman|1|Famous|4,Croatia_Tudman_Famous_1.txt,Croatia,Franjo Tudman,1,Famous,4,0.5,1: low,19785
+Canada|Stephen Harper|2|Campaign|1,Canada_Harper_Campaign_2.txt,Canada,Stephen Harper,2,Campaign,1,0.3,1: low,3200
+Panama|Juan Carlos Varela|1|Campaign|1,Panama_Varela_Campaign_1.txt,Panama,Juan Carlos Varela,1,Campaign,1,0.25,1: low,7140
+Ecuador|Rafael Correa|1|International|3,Ecuador_Correa_International_1.txt,Ecuador,Rafael Correa,1,International,3,1.0,2: medium,11161
+Romania|Adrian Nastase|1|Campaign|1,Romania_Nastase_Campaign_1.txt,Romania,Adrian Nastase,1,Campaign,1,1.0,2: medium,22890
+Bolivia|Evo Morales|3|Campaign|1,Bolivia_Morales_Campaign_3.txt,Bolivia,Evo Morales,3,Campaign,1,0.95,2: medium,19442
+Ukraine|Viktor Yanukovych|1|Famous|4,Ukraine_Yanukovych_Famous_1.txt,Ukraine,Viktor Yanukovych,1,Famous,4,1.0,2: medium,23710
+United States|Donald Trump|1|International|3,US_Trump_International_1.txt,United States,Donald Trump,1,International,3,0.733333333333333,2: medium,22642
+Tajikistan|Emomali Rahmon|1|Famous|4,Tajikistan_Rahmon_Famous_1.txt,Tajikistan,Emomali Rahmon,1,Famous,4,1.0,2: medium,23432
+Venezuela|Hugo Chavez|2|International|3,Venezuela_Chavez_International_2.txt,Venezuela,Hugo Chavez,2,International,3,2.0,3: high,18891
+Italy|Silvio Berlusconi|2|Famous|4,Italy_Berlusconi_Famous_2.txt,Italy,Silvio Berlusconi,2,Famous,4,1.5,3: high,6448
+Nicaragua|Daniel Ortega|1|Campaign|1,Nicaragua_Ortega_Campaign_1.txt,Nicaragua,Daniel Ortega,1,Campaign,1,2.0,3: high,19415
+Romania|Calin Popescu-Tariceanu|1|Campaign|1,Romania_Tariceanu_Campaign_1.txt,Romania,Calin Popescu-Tariceanu,1,Campaign,1,1.5,3: high,13601
+Belarus|Alexander Lukashenko|2|International|3,Belarus_Lukashenko_International_2.txt,Belarus,Alexander Lukashenko,2,International,3,2.0,3: high,7288
+Moldova|Vladimir Voronin|1|Famous|4,Moldova_Voronin_Famous_1.txt,Moldova,Vladimir Voronin,1,Famous,4,2.0,3: high,16206

@@ -1,0 +1,17 @@
+.env
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+
+# Downloaded separately (see README)
+data/global-populism-dataset-zi/
+
+# Not yet released
+Beyond_ChatGPT_LLM_Methods_Module2.ipynb
+LLM_Tutorial.ipynb
+data/module2_*
+data/populism_analysis_*
+data/transcription.txt
+data/module1_llm_results.csv
+scripts/
