@@ -18,7 +18,7 @@ Beyond_ChatGPT_LLM_Methods_Module1.ipynb   The tutorial notebook
 requirements.txt                           Python dependencies
 data/
   module1_populism_sample.csv              The 24 speeches used in the analysis
-  module1_groq_gpt_oss_20b_results.csv     Saved model annotations
+  module1_groq_gpt_oss_20b_results_Oct2026.csv   Saved model annotations
 ```
 
 ## Data
@@ -37,7 +37,7 @@ data/global-populism-dataset-zi/
 Please cite the original authors if you use these data. The files included in `data/` are:
 
 - **Analysis sample** (`module1_populism_sample.csv`): 24 whole speeches balanced across four ranges of the human score. The notebook documents the rule used to select them.
-- **Saved results** (`module1_groq_gpt_oss_20b_results.csv`): model annotations from a previous run. You can complete every analysis section from this file without making any API calls.
+- **Saved results** (`module1_groq_gpt_oss_20b_results_Oct2026.csv`): model annotations from an October 2026 run. You can complete every analysis section from this file without making any API calls.
 
 ## Requirements
 
